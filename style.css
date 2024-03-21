@@ -1,0 +1,16 @@
+body {
+    background-color: cornflowerblue;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: #fff;
+}
+button {
+    color: #fff;
+    background-color: #000;
+}
